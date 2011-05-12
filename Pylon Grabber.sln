@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PylonLiveView", "PylonLiveView.csproj", "{F3B8803F-5231-4D54-B588-10BB340890A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverlappedGrab", "OverlappedGrab\OverlappedGrab.csproj", "{87A4D53E-5A83-4387-8DD3-E0AE7487CC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AviWriter", "AviWriter\AviWriter.csproj", "{2E8F605D-D7C4-443C-947F-A139B701538E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pylon.NETSupportLibrary", "Pylon.NETSupportLibrary\Pylon.NETSupportLibrary.csproj", "{3EAFC9F5-D49F-4F9F-86C8-FBD231B07D2E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PylonGrabberInstaller", "PylonGrabberInstaller\PylonGrabberInstaller.vdproj", "{E1CF6972-B8EE-45B3-B8F4-700F5CA22FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B8803F-5231-4D54-B588-10BB340890A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B8803F-5231-4D54-B588-10BB340890A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B8803F-5231-4D54-B588-10BB340890A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B8803F-5231-4D54-B588-10BB340890A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A4D53E-5A83-4387-8DD3-E0AE7487CC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A4D53E-5A83-4387-8DD3-E0AE7487CC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A4D53E-5A83-4387-8DD3-E0AE7487CC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A4D53E-5A83-4387-8DD3-E0AE7487CC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8F605D-D7C4-443C-947F-A139B701538E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8F605D-D7C4-443C-947F-A139B701538E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8F605D-D7C4-443C-947F-A139B701538E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8F605D-D7C4-443C-947F-A139B701538E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAFC9F5-D49F-4F9F-86C8-FBD231B07D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAFC9F5-D49F-4F9F-86C8-FBD231B07D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAFC9F5-D49F-4F9F-86C8-FBD231B07D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAFC9F5-D49F-4F9F-86C8-FBD231B07D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CF6972-B8EE-45B3-B8F4-700F5CA22FC3}.Debug|Any CPU.ActiveCfg = Debug
+		{E1CF6972-B8EE-45B3-B8F4-700F5CA22FC3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
